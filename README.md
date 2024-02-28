@@ -23,3 +23,7 @@ flutter run
 ## Day 64 - Pizza App
 <img src="screenshot/day64/1.png" height="300em"/> <img src="screenshot/day64/2.png" height="300em"/> <img src="screenshot/day64/3.gif" height="300em"/>
 <br>
+
+## Day 65 - Properties for sale app
+<img src="screenshot/day65/1.png" height="300em"/> <img src="screenshot/day65/2.png" height="300em"/> <img src="screenshot/day65/3.png" height="150em"/>
+<br>
