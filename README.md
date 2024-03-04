@@ -27,3 +27,7 @@ flutter run
 ## Day 65 - Properties for sale app
 <img src="screenshot/day65/1.png" height="300em"/> <img src="screenshot/day65/2.png" height="300em"/> <img src="screenshot/day65/3.png" height="150em"/>
 <br>
+
+## Day 66 - Decoration app
+<img src="screenshot/day66/1.png" height="300em"/> <img src="screenshot/day66/2.png" height="300em"/>
+<br>

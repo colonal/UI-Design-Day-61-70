@@ -56,6 +56,7 @@ flutter:
     - assets/day63/
     - assets/day64/
     - assets/day65/
+    - assets/day66/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
   # For details regarding adding assets from package dependencies, see
