@@ -31,3 +31,7 @@ flutter run
 ## Day 66 - Decoration app
 <img src="screenshot/day66/1.png" height="300em"/> <img src="screenshot/day66/2.png" height="300em"/>
 <br>
+
+## Day 67 - Apple Vision Pro
+<img src="screenshot/day67/1.png" height="300em"/> <img src="screenshot/day67/2.png" height="300em"/> <img src="screenshot/day67/3.png" height="300em"/> 
+<br>

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'day_66/day_66_screen/day_66_screen.dart';
+import 'day_67/day_67_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const Day66Screen(),
+      home: const Day67Screen(),
     );
   }
 }
