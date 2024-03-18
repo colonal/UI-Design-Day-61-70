@@ -61,6 +61,18 @@ flutter:
     - assets/day68/
     - assets/day69/
     - assets/day70/
+    - assets/day70/
+    - screenshot/day61/1.jpg
+    - screenshot/day62/1.png
+    - screenshot/day63/1.png
+    - screenshot/day64/1.png
+    - screenshot/day65/1.png
+    - screenshot/day66/1.png
+    - screenshot/day67/1.png
+    - screenshot/day68/1.png
+    - screenshot/day69/1.png
+    - screenshot/day70/1.png
+    - screenshot/day70/1.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
   # For details regarding adding assets from package dependencies, see
